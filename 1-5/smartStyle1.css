@@ -1,0 +1,53 @@
+
+@media screen and (max-width: 479px) {
+    .wrapper{
+        width: 200px;
+        height: 700px;
+    }
+    .header{
+        width: 60px;
+        height: 160px;
+        padding: 20px 70px 20px 70px;
+    }
+
+    .contents{
+        width: 200px;
+
+    }
+    .box-wrapper{
+        width: 60px;
+        height: 150px;
+        float: none;
+        margin: 0px;
+        padding-bottom: 0px;
+      
+    }
+    .box{
+        float: none;
+        margin-bottom: 10px;
+    }
+    
+    .left{
+        width: 200px;
+        height: 100px;
+        float: none;
+    }
+
+    .right{
+        width: 200px;
+        height: 210px;
+     
+    }
+    .long-box-wrapper{
+        width: 140px;
+        margin: 20px 30px;
+    }
+    .long-box{
+        width: 130px;
+    }
+
+    .footer{
+        width: 200px;
+        height: 150px;
+    }
+}
